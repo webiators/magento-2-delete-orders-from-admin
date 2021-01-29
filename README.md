@@ -3,10 +3,10 @@ Stuck with the thought of “How To Delete An Order From A Magento Store?” bec
 ### Key Features:
 - No database knowledge needed
 - 100% open-source
-- This [Magento Order Delete Extension](https://store.webiators.com/magento-2-extensions/delete-orders-from-admin.html) Allows you to enable/disable through the admin
+- This Magento Order Delete Extension Allows you to enable/disable through the admin
 - Restrict another admin user to delete order functionality
 - Allows deleting any single order from the order page using a single click.
-- This Magento Delete Orders extension deleting order with any status like canceled, closed, etc.
+- This [Magento Delete Orders extension](https://store.webiators.com/magento-2-extensions/delete-orders-from-admin.html)deleting order with any status like canceled, closed, etc.
 - Provides the capability to delete orders, invoices, shipments and credit memos in bulk.
 - Configuration option to select an order status that could be deleted from the store.
 
