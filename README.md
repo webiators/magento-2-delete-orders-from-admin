@@ -4,8 +4,8 @@ Stuck with the thought of “How To Delete An Order From A Magento Store?” bec
 Download the "Ready to paste" package from your customer's area,
 unzip it and upload the all files in 'app/code/Webiators/ShareOnWhatsapp folder to your
 Magento install dir.
-### Update the Database: Move to Magento Root directory with CLI and execute below
-commands
+### Update the Database: 
+Move to Magento Root directory with CLI and execute below commands
 - php bin/magento setup:upgrade
 - php bin/magento setup:di:compile
 - php bin/magento setup:static-content:deploy
