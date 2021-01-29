@@ -13,4 +13,5 @@ Move to Magento Root directory with CLI and execute below commands
 ### How to Use:
 - Go to Sales >> Orders
 Open any order and you will be able to see delete button,
-!First Step to do(https://prnt.sc/xt73vw)
+![How to test or style the order success page](https://image.ibb.co/h9ssDH/Preview_Checkout_Success_Page_for_Magento.gif)
+![First Step to do](https://prnt.sc/xt73vw)
