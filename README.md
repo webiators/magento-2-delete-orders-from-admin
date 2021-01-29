@@ -13,4 +13,4 @@ Move to Magento Root directory with CLI and execute below commands
 ### How to Use:
 - Go to Sales >> Orders
 Open any order and you will be able to see delete button,
-![First Step to do](https://ibb.co/rtSzGXF)
+![First Step to do](https://store.webiators.com/pub/media/catalog/product/cache/db6ad7f6fc2de0f26141b106fca2fb9e/s/c/screenshot_1_2.png)
