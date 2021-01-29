@@ -10,3 +10,7 @@ Move to Magento Root directory with CLI and execute below commands
 - php bin/magento setup:di:compile
 - php bin/magento setup:static-content:deploy
 - php bin/magento cache:flush
+### How to Use:
+- Go to Sales >> Orders
+Open any order and you will be able to see delete button,
+(https://prnt.sc/xt73vw)
