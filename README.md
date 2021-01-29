@@ -44,4 +44,5 @@ You can Also delete orders in bulk using Mass Delete action
 - [Scroll To Top](https://store.webiators.com/magento-2-extensions/scroll-to-top.html)
 - [Auto Invoice and Shipment](https://store.webiators.com/magento-2-extensions/auto-invoice-and-shipment.html)
 - [Login As Customer From Admin](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html)
-- [Website](https://store.webiators.com/)
+
+For more information, visit [https://store.webiators.com/](https://store.webiators.com/)
