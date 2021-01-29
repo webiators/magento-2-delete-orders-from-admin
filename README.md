@@ -32,3 +32,15 @@ You can Also delete orders in bulk using Mass Delete action
 ### Our Support Policy:
 - Free lifetime updates
 - 3 months of free support services 
+### Magento 2 Extensions
+[Share On Whatsapp](https://store.webiators.com/magento-2-extensions/share-on-whatsapp.html)
+[Quote On Whatsapp](https://store.webiators.com/magento-2-extensions/quote-on-whatsapp.html)
+[Chat On Whatsapp](https://store.webiators.com/magento-2-extensions/chatonwhatsapp.html)
+[Reindex From Admin](https://store.webiators.com/magento-2-extensions/reindex-from-admin.html)
+[Delete Orders From Admin](https://store.webiators.com/magento-2-extensions/delete-orders-from-admin.html)
+[GeoIP Redirection & Locker](https://store.webiators.com/magento-2-extensions/geoip-redirection-locker.html)
+[Magento 2 Google Language Translator](https://store.webiators.com/magento-2-extensions/google-language-translator.html)
+[Google Invisible Recaptcha](https://store.webiators.com/magento-2-extensions/google-invisible-recaptcha.html)
+[Scroll To Top](https://store.webiators.com/magento-2-extensions/scroll-to-top.html)
+[Auto Invoice and Shipment](https://store.webiators.com/magento-2-extensions/auto-invoice-and-shipment.html)
+[Login As Customer From Admin](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html)
