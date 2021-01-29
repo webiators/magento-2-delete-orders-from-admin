@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * @category   Webiators
+ * @package    Webiators_DeleteOrdersFromAdmin
+ * @author     Webitaors Team
+ * @copyright  Copyright (c) Webiators Technologies. ( https://webiators.com ).
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="\Magento\Sales\Block\Adminhtml\Order\View">
+        <plugin name="Webiators_DeleteOrdersFromAdmin::pluginAfterOrder" type="Webiators\DeleteOrdersFromAdmin\Plugin\Order\PluginAfter" />
+    </type>
+
+    <type name="\Magento\Sales\Block\Adminhtml\Order\Invoice\View">
+        <plugin name="Webiators_DeleteOrdersFromAdmin::pluginAfterInvoice" type="Webiators\DeleteOrdersFromAdmin\Plugin\Invoice\PluginAfter" />
+    </type>
+
+    <type name="\Magento\Shipping\Block\Adminhtml\View">
+        <plugin name="Webiators_DeleteOrdersFromAdmin::pluginAfterShipment" type="Webiators\DeleteOrdersFromAdmin\Plugin\Shipment\PluginAfter" />
+    </type>
+
+    <type name="\Magento\Sales\Block\Adminhtml\Order\Creditmemo\View">
+        <plugin name="Webiators_DeleteOrdersFromAdmin::pluginAfterCreditmemo" type="Webiators\DeleteOrdersFromAdmin\Plugin\Creditmemo\PluginAfter" />
+    </type>
+</config>
