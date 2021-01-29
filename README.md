@@ -1,4 +1,4 @@
-# magento-2-delete-orders-from-admin
+# Magento 2 Delete Orders From Admin
 Stuck with the thought of “How To Delete An Order From A Magento Store?” because By default, Magento does not provide a function to delete orders from admin Well, your query can now be resolved by the [Magento 2 Delete Orders extension](https://store.webiators.com/magento-2-extensions/delete-orders-from-admin.html) created by Webiators! The Safe and Easy solution to delete your Test or Spam order directly from Magento admin. Not only Orders you can also delete Invoice, and Shipment with Mass Action as well as one by one. Webiators created an easy-to-use extension that is FREELY available and is 100% Open Source where you can customize the extension as per your needs.
 ### Key Features:
 - No database knowledge needed
