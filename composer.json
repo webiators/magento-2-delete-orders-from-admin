@@ -14,7 +14,14 @@
             "email": "support@webiators.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }       
+    ],
     "autoload": {
         "psr-4": {
             "Webiators\\DeleteOrdersFromAdmin\\": ""
