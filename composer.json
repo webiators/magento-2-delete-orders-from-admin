@@ -12,9 +12,11 @@
 "email": "support@webiators.com"
 }
 ],
+
+
 "require": {
 "php": "^7.1.0",
-"webiators/module-deleteordersfromadmin":"dev-master@dev"
+"webiators/module-deleteordersfromadmin":"^1.0.0"
 },
 "autoload": {
 "files":
