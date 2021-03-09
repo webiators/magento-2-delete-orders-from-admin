@@ -1,22 +1,27 @@
 {
-"name": "webiators/module-deleteordersfromadmin",
-"description": "Delete Orders From Admin extension by Webiators can help to delete one or multiple orders from admin panel.",
-"require": {
-    "php": "~7.2.0||~7.3.0",
-    "magento/magento-composer-installer": "*",
-    "webiators/module-deleteordersfromadmin":"*"
-},
-"type": "magento2-module",
-"version": "2.0.0",
-"license": [
-    "GPL-3.0"
-],
-"autoload": {
+  "name": "webiators/module-deleteordersfromadmin",
+  "description": "Delete Orders From Admin extension by Webiators can help to delete one or multiple orders from admin panel.",
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Webiators Technologies Private Limited",
+      "email": "support@webiators.com"
+    }
+  ],
+  "autoload": {
     "files": [
-        "registration.php"
+      "registration.php"
     ],
     "psr-4": {
-        "Webiators\\DeleteOrdersFromAdmin\\": ""
+      "Webiators\\DeleteOrdersFromAdmin\\": ""
     }
-}
+  }
 }
