@@ -10,6 +10,14 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
+  {
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/webiators/magento-2-delete-orders-from-admin"
+        }
+    ]
+}
   "authors": [
     {
       "name": "Webiators Technologies Private Limited",
